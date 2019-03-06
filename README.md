@@ -13,7 +13,7 @@ We have 3 sources of data for this project:
 •	Source of AIRBNB data 
 Below is an example of a city’s Travel Guide that includes in it information about the city that a traveler might want to know before visiting. The paragraph featured in the “About” section of “Rio de Janeiro” is an example of the text that was scrapped for each city. It should be noted that a total of 130 cities were scrapped for the purpose of this recommendation engine. 
   
-![Figure 1](https://github.com/onurerkin/travel-recommendation-engine/tree/master/images/Picture1.png)
+![Figure 1](/images/Picture1.png)
 Figure 1.
 
 The travel guide data has been scraped from https://www.worldtravelguide.net/guides/  where the city and text have been put into a data frame as such: 
